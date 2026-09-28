@@ -1,0 +1,36 @@
+REQUERIMIENTOS PREVIOS:
+    En esta seccion solo se aclaran algunas cosas de instalacion. 
+    Este archivo no es usado por el codigo, adiferencia del "requirements.txt" ahí tenemos una instruccion que sera ejecutada en el contenedor.
+
+    En la terminal deveras colocar el siguiente comando: 
+        pip install Falsk pymongo
+
+    Version de Python: 3.9.11
+
+    Puertos usados: 27017
+
+Expliacion de los archivos:
+    El tema de los archivos es simple, el que dice aap.py ayuda a conectarte a la base de datos como cliente, ahí suceden las operaciones CRUD
+    En el Dockerfile realizas las instalaciones de forma automatica
+    En requirements.txt intstalas el pymongo
+    y en el docker-compose.yml es donde se establece las configuraciones de puertos y la ubicacion.
+
+
+___COMANDOS PARA ACCESAR AL SERVICIO.___
+    docker exec -it mondongo-app-1 python3 app.py 
+        * [Para accesar al sistema del contenedor.]
+    
+    docker-compose up --build -d:
+        1.- Revisa el archivo docker-compose.yml y construye las imágenes de los servicios especificados.
+        2.- Levanta los contenedores en segundo plano.
+        3.- Para verificar que los contenedores están corriendo, puedes utilizar el comando docker ps o docker-compose ps.
+
+    docker-compose up -d 
+        * [Correrlo en suegundo plano, lo crea en caso de no estar creado y lo corre.]
+
+    docker-compose start 
+        * [a diferencia del comando anterior, solo sirve para iniciarlos, 
+         el comando anterior crea el contenedor en caso de no exixtir]
+
+    docker-compose ps:
+        * [Sirve para checar el estado de los contendores, para poder ver si estaa funcionando correctamente.]
