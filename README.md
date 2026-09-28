@@ -10,3 +10,6 @@ La razon por la qu decido que este repositorio sea publico, es porque un recluta
 Si apenaz estas empezando en el mundo de la programación y estas leyendo esto, creeeme, poco a poco iras mejorando a lo largo de ru trayectoria.
 
 Por ultimo, reitero, subire el archivo tal cual, evitando trampas, además de ahorrarme el tiempo de documentar todo, francamente ni siquiera yo logro entender lo que hacia en semestres atrás.
+
+## Agradecimientos
+Si alguien se tomo la molestia de revisar mis proyectos de cuando aun era estudiante, de ante mano muchas gracias, valoro el tiempo que se le dedica a mi perfil, reitero, esto no define mi perfil como profesional, solo me llena de nostalgia, es algo personal, a lo mejor en un futuro realizo algo con este monton de proyectos, por lo pronto, lo conservo para reco5rdar mi esfuerzo y avance a lo largo de 5 años, más porque hoy en día cualquiera puede pedirle a la IA que haga muchos de estos trabajos sin mayor complicación.
