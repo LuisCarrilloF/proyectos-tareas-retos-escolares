@@ -1,0 +1,8 @@
+Para compilar:
+    javac Servidor.java
+    javac Cliente.java
+
+
+Para correr:
+    java Servidor
+    java Cliente

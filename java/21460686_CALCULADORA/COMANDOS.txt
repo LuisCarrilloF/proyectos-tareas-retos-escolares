@@ -1,0 +1,8 @@
+Para compilar:
+    javac client/CalculadoraClient.java
+    javac server/CalculadoraServer.java
+
+
+Para Correr el Programa:
+    java server.CalculadoraServer
+    java client.CalculadoraClient
