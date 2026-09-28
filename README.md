@@ -1,15 +1,23 @@
 # proyectos-tareas-retos-escolares
-## Descripción
-Aquí podras encontrar algun reto, proyecto o tareas que he realizado a lo largo de mi carrera, tratare de buscar todas las que pueda, pero lamentablemente, aprendí a usar guthub en 5to semestre, entonces, no se que tan facil o dificil podria ser, además, de que ya me dieron de baja mi correo institucional, ahí subia casi todo. Vuelvo a recalcar quye estos son retos, tareas o proyectos `ESCOLARES`, ya no me encuentro en ese nivel y por lo tanto no es mencionado en ninguna parte la existencia de este repositorio.
 
-Pero bueno, estoy tratando de no corregir nada para poder visualizar mi avance con los ultimos proyectos que he realizado, donde ya documento, tengo buenas practicas, uso entornos virtuales como el `venv`. Además, algo que he visto que si cambia vastante mi forma de crear codigo es gracias a los `principios solid`, creo que ya me encuentro en un nivel bastante alto respecto al que empeze en la carrera. Ahora procuro hacer todo completamente modular y bien porganizado.
+## Descripción
+
+Aquí podrás encontrar algunos retos, proyectos o tareas que he realizado a lo largo de mi carrera. Trataré de buscar todos los que pueda, pero, lamentablemente, aprendí a usar GitHub en quinto semestre, así que no sé qué tan fácil o difícil podría ser. Además, ya dieron de baja mi correo institucional y ahí subía casi todo.
+
+Vuelvo a recalcar que estos son retos, tareas o proyectos **ESCOLARES**. Ya no me encuentro en ese nivel y, por lo tanto, no se menciona en ninguna parte la existencia de este repositorio.
+
+Pero bueno, estoy tratando de no corregir nada para poder visualizar mi avance con los últimos proyectos que he realizado, en los que ya documento, tengo buenas prácticas y uso entornos virtuales como `venv`. Además, algo que ha cambiado bastante mi forma de crear código es el uso de los **principios SOLID**. Creo que ya me encuentro en un nivel bastante alto respecto al que tenía cuando empecé la carrera. Ahora procuro hacer todo de manera completamente modular y bien organizada.
 
 ## Justificación
-La razon por la qu decido que este repositorio sea publico, es porque un reclutador me comento que como es pocible que no tenga ningun proyecto escolar en 5 años, yo francamente no le doy mucho peso, pero ahora que me puse a buscar, me da nostalgia y orgullo ver hasta donde he sido capaz de llegar.
 
-Si apenaz estas empezando en el mundo de la programación y estas leyendo esto, creeeme, poco a poco iras mejorando a lo largo de ru trayectoria.
+La razón por la que decidí que este repositorio sea público es que un reclutador me comentó: «¿Cómo es posible que no tengas ningún proyecto escolar de hace cinco años?». Yo, francamente, no le doy mucho peso, pero ahora que me puse a buscar, me da nostalgia y orgullo ver hasta dónde he sido capaz de llegar.
 
-Por ultimo, reitero, subire el archivo tal cual, evitando trampas, además de ahorrarme el tiempo de documentar todo, francamente ni siquiera yo logro entender lo que hacia en semestres atrás.
+Si apenas estás empezando en el mundo de la programación y estás leyendo esto, créeme: poco a poco irás mejorando a lo largo de tu trayectoria.
+
+Por último, reitero que subiré los archivos tal cual, evitando trampas, además de ahorrarme el tiempo de documentar todo. Francamente, ni siquiera yo logro entender lo que hacía en semestres anteriores.
 
 ## Agradecimientos
-Si alguien se tomo la molestia de revisar mis proyectos de cuando aun era estudiante, de ante mano muchas gracias, valoro el tiempo que se le dedica a mi perfil, reitero, esto no define mi perfil como profesional, solo me llena de nostalgia, es algo personal, a lo mejor en un futuro realizo algo con este monton de proyectos, por lo pronto, lo conservo para reco5rdar mi esfuerzo y avance a lo largo de 5 años, más porque hoy en día cualquiera puede pedirle a la IA que haga muchos de estos trabajos sin mayor complicación.
+
+Si alguien se tomó la molestia de revisar mis proyectos de cuando aún era estudiante, de antemano, ¡muchas gracias! Valoro el tiempo que se le dedica a mi perfil.
+
+Reitero que esto no define mi perfil como profesional; solo me llena de nostalgia. Es algo personal. A lo mejor, en un futuro realizo algo con este montón de proyectos; por lo pronto, los conservo para recordar mi esfuerzo y avance a lo largo de cinco años, más aún porque hoy en día cualquiera puede pedirle a la IA que haga muchos de estos trabajos sin mayor complicación.
