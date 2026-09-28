@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316105633492",
+    "project_id": "reporta-fallas",
+    "storage_bucket": "reporta-fallas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316105633492:android:b7bf774757d6fc0a339541",
+        "android_client_info": {
+          "package_name": "com.reporte_fallas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMIDltz3ATnM_zU_sen7Nf4sgqPOINKGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
