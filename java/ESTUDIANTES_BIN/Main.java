@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class Main{
+
+    public static void main (String[] args)
+    {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Nombre: ");
+        String nombre =sc.next();
+        System.out.printf("Hola %S\n",nombre);
+
+        int i=0;
+        for (String arg : args){
+            System.out.printf("%2d: %s", i++, arg);
+        }
+
+        sc.close();
+    }
+}
